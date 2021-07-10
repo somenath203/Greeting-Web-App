@@ -1,6 +1,6 @@
 # Greeting Web App
 This is a simple website created using Html, CSS and React. If you open this website in between 4 a.m. and 12 o'clock., then, you will be greeted with ***Good Morning***. 
-If you open this website in between 12.01 p.m.  and 7 p.m., then, you will be greeted with ***Good Afternoon***. If you open this website after 7 p.m., then, you will be treated with ***Good Night***. This is a dynamic website for which you will be greeted according to the time in your system.
+If you open this website in between 12.01 p.m.  and 7 p.m., then, you will be greeted with ***Good Afternoon***. If you open this website after 7 p.m., then, you will be greeted with ***Good Night***. This is a dynamic website for which you will be greeted according to the time in your system.
 
 ## Setup
 
@@ -16,7 +16,7 @@ After downloading the project, open any independent or IDE based terminal. Then 
 ```
 cd location_of_the_folder
 ```
-After navigating to the location where the  **Greeting-Web-App** folder is downloaded, get inside the file by using the the command line
+After navigating to the location where the  **Greeting-Web-App** folder is downloaded, get inside the file by using the command line
 ```
 cd Greeting-Web-App 
 ```
