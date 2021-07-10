@@ -6,7 +6,7 @@ If you open this website in between 12.01  and 7 p.m., then, you will be greeted
 
 ### Step 1
 You need to install Node.js first in order to use this app in your system. To install node.js, click here => https://nodejs.org/en/
-(Ignore this step if Node.js is already installed in your system)
+(ignore this step if Node.js is already installed in your system).
 
 ### Step 2
 After this, download **Greeting-Web-App** folder in your system.
