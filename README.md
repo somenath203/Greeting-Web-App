@@ -12,7 +12,7 @@ You need to install Node.js first in order to use this app in your system. To in
 After this, download **Greeting-Web-App** folder in your system.
 
 ### Step 3
-After downloading the project, open any independent or IDE based terminal. Then navigate to that location where the Greeting-Web-App folder is present by using the command line
+After downloading the project, open any independent or IDE based terminal. Then navigate to that location where the **Greeting-Web-App** folder is present by using the command line
 ```
 cd location_of_the_file
 ```
